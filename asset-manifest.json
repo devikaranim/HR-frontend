@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HR-frontend/static/css/main.94da2465.css",
+    "main.js": "/HR-frontend/static/js/main.fedc6f97.js",
+    "index.html": "/HR-frontend/index.html",
+    "main.94da2465.css.map": "/HR-frontend/static/css/main.94da2465.css.map",
+    "main.fedc6f97.js.map": "/HR-frontend/static/js/main.fedc6f97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94da2465.css",
+    "static/js/main.fedc6f97.js"
+  ]
+}
