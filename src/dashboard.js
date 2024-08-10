@@ -15,7 +15,7 @@ const Dashboard = () => {
             <Link to="/schedule">
                 <h3>Schedule Interview</h3>
             </Link>
-            <Link to="/candidateReports">
+            <Link to="/reports">
                 <h3>View Results</h3>
             </Link>
         </div>

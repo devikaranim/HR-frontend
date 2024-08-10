@@ -136,3 +136,15 @@
 .CandidateDetails option{
   width:1000px;
 }
+#btn{
+  width:150px;
+  height: 30px;
+  margin-left: 600px;
+  margin-top: 20px;
+  border-radius: 6px;
+  border:2px solid blueviolet;
+  font-size:15px;
+}
+.reports h1{
+  margin-left: 300px;
+}

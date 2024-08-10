@@ -47,6 +47,7 @@ const Schedule = () => {
                     </select>
                 </form>
             </div>
+            <button id="btn">Schedule</button>
         </div>
     );
 }
