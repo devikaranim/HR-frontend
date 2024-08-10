@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HR-frontend/static/css/main.ef663d3b.css",
-    "main.js": "/HR-frontend/static/js/main.f981126d.js",
+    "main.js": "/HR-frontend/static/js/main.520d61ec.js",
     "index.html": "/HR-frontend/index.html",
     "main.ef663d3b.css.map": "/HR-frontend/static/css/main.ef663d3b.css.map",
-    "main.f981126d.js.map": "/HR-frontend/static/js/main.f981126d.js.map"
+    "main.520d61ec.js.map": "/HR-frontend/static/js/main.520d61ec.js.map"
   },
   "entrypoints": [
     "static/css/main.ef663d3b.css",
-    "static/js/main.f981126d.js"
+    "static/js/main.520d61ec.js"
   ]
 }
